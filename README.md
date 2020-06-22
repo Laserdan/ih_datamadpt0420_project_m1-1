@@ -77,7 +77,7 @@ Any other information that you may find interesting and/or relevant!!!
 
 - **Rural:** Adja, Agustin, Carmen, Diegales, Diego Melon, Juan Carlos, Juanito, Marta, Sabine, Sandra.
 
-- **Age Group:** Antonio, Christian, David Blanco, Ivan, Juan Antonio, Juan Muñoz, Lucas, Nacho, Sergio, Victor.
+- **Age (Dataset was taken in 2016):** Antonio, Christian, David Blanco, Ivan, Juan Antonio, Juan Muñoz, Lucas, Nacho, Sergio, Victor.
 
 **References:**
 
